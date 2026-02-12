@@ -31,43 +31,18 @@ sections:
   - block: "resume-experience"
     content:
       username: "me"
-    ue: "section-4-resume-experience"
-    Bi: "section-f567f706"
-  - block: "tech-stack"
-    ue: "section-5-tech-stack"
-    Bi: "section-d9ba3249"
+    ue: "section-3-resume-experience"
+    Bi: "section-f6548ef5"
+  - block: "resume-skills"
+    content:
+      username: "me"
+    ue: "section-4-resume-skills"
+    Bi: "section-a5ee9aa8"
   - block: "resume-languages"
     content:
       username: "me"
     ue: "section-6-resume-languages"
     Bi: "section-ff9b2885"
-  - block: "markdown"
-    content:
-      title: "📚 My Research"
-      subtitle: ""
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: "1"
-    ue: "section-1e35c729"
-    Bi: "section-0953b90e"
-  - block: "collection"
-    content:
-      title: "Featured Publications"
-      filters:
-        folders:
-          - "publications"
-        featured_only: true
-    design:
-      view: "article-grid"
-      columns: 2
-    ue: "section-papers"
-    id: "papers"
-    Bi: "section-b5810282"
   - block: "collection"
     content:
       title: "Recent Publications"
