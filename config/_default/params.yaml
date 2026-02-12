@@ -7,7 +7,7 @@ hugoblox:
     description: Anna Yi Leung | Researcher in Psycholinguistics & Metascience. Bridging reading science and education with open resources for the global community.
   theme:
     mode: system
-    pack: minimal
+    pack: dracula
     colors:
       primary: ""
       secondary: ""
