@@ -3,105 +3,132 @@ slug: "me"
 is_owner: true
 name:
   display: "Anna Yi Leung"
-  given: "Alex"
-  family: "Johnson"
-  alternate: ""
+  given: "Anna Yi"
+  family: "Leung"
+  alternate: "梁懿"
   pronunciation: ""
-  pronouns: "he/him"
+  pronouns: ""
 postnominals:
-  - "PhD"
-  - "MIEEE"
+  - "M.A., M.Sc."
+  - "Doctoral Candidate in Psycholinguistics at LMU Munich"
 status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+  icon: "📖"
+role: "Research Scientist in Psycholinguistics and Metascience"
+bio: "I am a doctoral researcher specialising in psycholinguistics and reading development. My work explores the cognitive mechanisms of how we learn to read, with a focus on subtyping dyslexia to provide personalised support. Committed to metascience, I integrate open science practices to ensure my research is robust and transparent. Beyond the lab, I am passionate about bridging the gap between science and education. Through Open Education initiatives, I translate complex linguistic theories into practical, evidence-based resources for researchers, teachers, and clinicians. I am dedicated to empowering the global community, supporting diverse learners in our unique and vibrant bilingual environment.\n"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "Ludwig-Maximilians-University of Munich"
+    url: ""
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:leung.yi.lmu@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/msleungyi"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://www.linkedin.com/in/leungyianna/"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
+    url: "https://scholar.google.com/citations?user=hjgYR1kAAAAJ&hl=de&authuser=1&oi=ao"
   - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://orcid.org/0000-0003-0720-5036"
+  - icon: "brands/bluesky"
+    url: "https://bsky.app/profile/leungyianna.bsky.social"
+    label: "Bluesky"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Causes and profiling of developmental dyslexia"
+  - "Language disorders"
+  - "Psychometrics"
+  - "Translational science"
+  - "Research synthesis methods"
+  - "Metascience and open science"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "Dr. in Human Biology"
+    institution: "Ludwig-Maximilians-University of Munich"
+    start: "2021"
+    end: ""
+    summary: ""
+  - degree: "M.Sc. in Psychology: Learning Sciences"
+    institution: "Ludwig-Maximilians-University of Munich"
+    start: "2019"
+    end: "2021"
+    summary: ""
+  - degree: "M.A. in Psychology"
+    institution: "The Chinese University of Hong Kong"
+    start: "2018"
+    end: "2019"
+    summary: ""
+  - degree: "B.Ed. in Chinese Language"
+    institution: "The Education University of Hong Kong"
+    start: "2012"
+    end: "2016"
+    summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Guest Researcher"
+    org: "University Hospital, Ludwig-Maximilians-University"
+    start: "2025"
+    end: ""
+    summary: ""
+  - role: "Scientific Research Associate"
+    org: "University Hospital, Ludwig-Maximilians-University of Munich"
+    start: "2021"
+    end: "2025"
+    summary: ""
+  - role: "Full-Time Teacher (Chinese Language & Music)"
+    org: "S.K.H. Tin Wan Chi Nam Primary School, Hong Kong"
+    start: "2016"
+    end: "2018"
+    summary: ""
+  - role: "Freelance Textbook Editor & Intern"
+    org: "The Commercial Press (Hong Kong)"
+    start: "2015"
+    end: "2016"
+    summary: ""
 skills:
-  - name: "Technical Skills"
+  - name: "Quantitative Methods & Psychometrics"
     items:
+      - label: "Structural Equation Modelling (SEM)"
+        level: 4
+      - label: "Multilevel Modelling (Frequentist & Bayesian)"
+        level: 5
+      - label: "Latent Class & Cluster Analysis"
+        level: 4
+      - label: "Item Response Theory (IRT)"
+        level: 4
+  - name: "Programming & Web Development"
+    items:
+      - label: "R & Shiny"
+        level: 5
       - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
         level: 4
-  - name: "Research & Communication"
+      - label: "HTML"
+        level: 4
+  - name: "Teaching"
     items:
-      - label: "Academic Writing"
+      - label: "Language Pedagogies"
         level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
+      - label: "Cooperative & Problem-Based- Learning"
+        level: 5
+      - label: "Instructional Design & Assessment"
+        level: 5
+      - label: "Action Research"
         level: 4
 languages:
   - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
+    level: null
     label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - name: "Cantonese"
+    level: null
+    label: "Native"
+  - name: "Mandarin"
+    level: null
+    label: "Fluent"
+  - name: "German"
+    level: null
+    label: "Advanced"
+  - name: "French"
+    level: null
+    label: "Intermediate"
+awards: []
+ids:
+  orcid: "0000-0003-0720-5036"
+  google_scholar: "=hjgYR1kAAAAJ&hl=de&authuser=1&oi=ao"
+  research_gate: "Anna-Yi-Leung"
