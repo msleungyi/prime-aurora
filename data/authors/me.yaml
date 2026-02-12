@@ -113,19 +113,19 @@ skills:
         level: 4
 languages:
   - name: "English"
-    level: null
+    level: 5
     label: "Fluent"
   - name: "Cantonese"
-    level: null
+    level: 5
     label: "Native"
   - name: "Mandarin"
-    level: null
+    level: 5
     label: "Fluent"
   - name: "German"
-    level: null
+    level: 4
     label: "Advanced"
   - name: "French"
-    level: null
+    level: 3
     label: "Intermediate"
 awards: []
 ids:
