@@ -40,3 +40,6 @@ hugoblox:
       enable: true
   search:
     enable: true
+  analytics:
+    google:
+      measurement_id: G-DZRC7V9B0F
