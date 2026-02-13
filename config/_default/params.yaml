@@ -6,7 +6,7 @@ hugoblox:
     tagline: Psycholinguistics. Metascience. Open Education.
     description: Anna Yi Leung | Researcher in Psycholinguistics & Metascience. Bridging reading science and education with open resources for the global community.
   theme:
-    mode: system
+    mode: light
     pack: dracula
     colors:
       primary: ""
