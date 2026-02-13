@@ -12,7 +12,7 @@ sections:
       text: ""
       button:
         text: "Download CV"
-        url: "uploads/resume.pdf"
+        url: "uploads/AYLeung_Academic CV_13-2-2026.pdf"
       headings:
         about: ""
         education: ""
@@ -31,8 +31,8 @@ sections:
   - block: "resume-experience"
     content:
       username: "me"
-    ue: "section-3-resume-experience"
-    Bi: "section-f6548ef5"
+    ue: "section-4-resume-experience"
+    Bi: "section-644d9894"
   - block: "resume-skills"
     content:
       username: "me"
@@ -43,6 +43,19 @@ sections:
       username: "me"
     ue: "section-6-resume-languages"
     Bi: "section-ff9b2885"
+  - block: "portfolio"
+    content:
+      count: 2
+      sort_by: "Date"
+      sort_ascending: false
+      buttons:
+        - name: "All"
+          tag: "*"
+      default_button_index: 0
+      title: "Featured Projects"
+    ue: "section-5-portfolio"
+    design: {}
+    Bi: "section-4ae8e5b6"
   - block: "collection"
     content:
       title: "Recent Publications"
@@ -51,8 +64,23 @@ sections:
         folders:
           - "publications"
         exclude_featured: false
+      count: 3
     design:
       view: "citation"
     ue: "section-26d9236d"
     Bi: "section-3ff359fa"
+  - block: "collection"
+    content:
+      count: 3
+      offset: 0
+      sort_by: "Date"
+      sort_ascending: false
+      title: "Blog"
+      text: "Read my most recent blog posts here:"
+      page_type: "blog"
+      order: "desc"
+    ue: "section-6-collection"
+    design:
+      columns: 3
+    Bi: "section-03386528"
 ---

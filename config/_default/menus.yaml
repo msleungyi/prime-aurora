@@ -8,23 +8,15 @@ main:
     identifier: 071f8e6a
     url: /
     weight: 10
-  - name: About
-    identifier: about
-    url: /about/
-    weight: 20
   - name: Projects
     identifier: 05d01025
     url: projects/
-    weight: 30
-  - name: Publication
+    weight: 20
+  - name: Publications
     identifier: 4c5a5f97
-    url: /#publication
-    weight: 40
-  - name: Resources
-    identifier: resources
-    url: /resources
-    weight: 50
+    url: /publications
+    weight: 30
   - name: Blog
     identifier: blog
     url: /blog/
-    weight: 60
+    weight: 40
