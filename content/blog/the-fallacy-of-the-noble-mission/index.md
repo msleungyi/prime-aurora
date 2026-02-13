@@ -30,8 +30,6 @@ content_meta:
 
 ---
 
-{{< toc mobile_only=true is_open=true >}}
-
 I finished Henry Thoreau's "Walden" or "Life in the Woods" in a psychologically-drunk state. I purchased this book back in June as I needed to learn to enjoy solitude during the Corona times. The book didn't disappoint me.
 
 I'd say, the latter part of the book was a bit long-winded for me. The philosophical introspection in the first part of the book was pleasurably stimulating though. But the most thought-provoking excerpt was the final words at the very end:

@@ -30,8 +30,6 @@ content_meta:
 
 ---
 
-{{< toc mobile_only=true is_open=true >}}
-
 Altruism is one of the key topics in education, social and developmental psychology, and of course, humanity. I remembered that a colleague of mine and I were discussing if altruism really exists. Our consensus was NO.
 
 A quote from Thoreau's "Walden" was really thought-provoking:
