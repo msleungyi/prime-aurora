@@ -95,6 +95,10 @@ skills:
         level: 4
       - label: "HTML"
         level: 4
+      - label: "PsychoPy"
+        level: 4
+      - label: "Praat"
+        level: 3
   - name: "Teaching"
     items:
       - label: "Language Pedagogies"
