@@ -17,6 +17,18 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+languages:
+  en:
+    languageCode: en-us
+    languageName: English
+    contentDir: content/en
+    weight: 1
+  zh-hant:
+    languageCode: zh-Hant
+    languageName: 繁體中文
+    contentDir: content/zh-hant
+    weight: 2
+
 ############################
 ## PAGE OPTIONS
 ############################
