@@ -1,22 +1,43 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
 # Default language
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageCode: en-GB
+  contentDir: content/en
+  title: Anna Yi Leung
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  menu:
+    main:
+      - name: Home
+        url: /
+        weight: 10
+      - name: Projects
+        url: /projects/
+        weight: 20
+      - name: Publications
+        url: /publications/
+        weight: 30
+      - name: Blog
+        url: /blog/
+        weight: 40
+
+# Traditional Chinese
+zh-hant:
+  languageCode: zh-Hant
+  contentDir: content/zh_hant
+  title: 梁懿
+  weight: 2
+
+  menu:
+    main:
+      - name: 首頁
+        url: /
+        weight: 10
+      - name: 研究與項目
+        url: /projects/
+        weight: 20
+      - name: 教學資源
+        url: /teaching/
+        weight: 30
+      - name: 網誌
+        url: /blog/
+        weight: 40

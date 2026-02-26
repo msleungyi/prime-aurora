@@ -1,0 +1,132 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "梁懿"
+  given: "懿"
+  family: "梁"
+  alternate: "Anna Yi Leung"
+  pronunciation: ""
+  pronouns: ""
+postnominals:
+  - "M.A., M.Sc."
+  - ""
+status:
+  icon: "📖"
+role: "心理語言學研究員｜前小學教師"
+bio: "我是香港前小學中國語文教師，現為慕尼黑大學心理語言學博士研究員。我的研究涵蓋學習閱讀的認知機制，以及有關劃分發展性讀寫障礙（Developmental Dyslexia）類型的方法論。我注重實踐開放科學（Open Science）的理念，並重視科學理論能否應用於實際教學環境。我希望轉譯公共知識，將複雜的認知理論轉化為實用、易明，且具實證基礎的資源，協助研究人員、教師、臨床工作者及家長理解及支援語文學習。"
+affiliations:
+  - name: "慕尼黑大學"
+    url: ""
+links:
+  - icon: "at-symbol"
+    url: "mailto:leung.yi.lmu@gmail.com"
+    label: "電郵"
+  - icon: "brands/github"
+    url: "https://github.com/msleungyi"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/leungyianna/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=hjgYR1kAAAAJ&hl=de&authuser=1&oi=ao"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0003-0720-5036"
+  - icon: "brands/bluesky"
+    url: "https://bsky.app/profile/leungyianna.bsky.social"
+    label: "Bluesky"
+interests:
+  - "發展性閱讀障礙的成因與分類"
+  - "語言障礙與學習差異"
+  - "閱讀的認知機制"
+  - "心理測驗與評量"
+  - "科學研究方法學（Metascience）"
+education:
+  - degree: "心理語言學博士"
+    institution: "慕尼黑大學"
+    start: "2021"
+    end: ""
+    summary: ""
+  - degree: "心理學碩士（學習科學；Learning Sciences）"
+    institution: "慕尼黑大學"
+    start: "2019"
+    end: "2021"
+    summary: ""
+  - degree: "心理學碩士"
+    institution: "香港中文大學"
+    start: "2018"
+    end: "2019"
+    summary: ""
+  - degree: "中文教育學士"
+    institution: "香港教育大學"
+    start: "2012"
+    end: "2016"
+    summary: ""
+experience:
+  - role: "科學研究助理（心理語言學）"
+    org: "慕尼黑大學附屬醫院"
+    start: "2021"
+    end: "2025"
+    summary: ""
+  - role: "全職小學教師（中國語文及音樂科）"
+    org: "香港聖公會田灣始南小學"
+    start: "2016"
+    end: "2018"
+    summary: ""
+  - role: "自由身教材編輯及實習編輯（初中中國語文科）"
+    org: "商務印書館（香港）"
+    start: "2015"
+    end: "2016"
+    summary: ""
+skills:
+  - name: "Quantitative Methods & Psychometrics"
+    items:
+      - label: "Structural Equation Modelling (SEM)"
+        level: 4
+      - label: "Multilevel Modelling (Frequentist & Bayesian)"
+        level: 5
+      - label: "Latent Class & Cluster Analysis"
+        level: 4
+      - label: "Item Response Theory (IRT)"
+        level: 4
+  - name: "Programming & Web Development"
+    items:
+      - label: "R & Shiny"
+        level: 5
+      - label: "Python"
+        level: 4
+      - label: "HTML"
+        level: 4
+      - label: "PsychoPy"
+        level: 4
+      - label: "Praat"
+        level: 3
+  - name: "Teaching"
+    items:
+      - label: "Language Pedagogies"
+        level: 5
+      - label: "Cooperative & Problem-Based- Learning"
+        level: 5
+      - label: "Instructional Design & Assessment"
+        level: 5
+      - label: "Action Research"
+        level: 4
+languages:
+  - name: "英語"
+    level: 5
+    label: "流利"
+  - name: "粵語"
+    level: 5
+    label: "母語"
+  - name: "普通話"
+    level: 5
+    label: "流利"
+  - name: "德語"
+    level: 4
+    label: "高階"
+  - name: "法語"
+    level: 3
+    label: "中級"
+awards: []
+ids:
+  orcid: "0000-0003-0720-5036"
+  google_scholar: "=hjgYR1kAAAAJ&hl=de&authuser=1&oi=ao"
+  research_gate: "Anna-Yi-Leung"
