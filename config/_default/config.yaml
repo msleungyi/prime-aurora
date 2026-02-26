@@ -6,7 +6,7 @@ languages:
     languageName: English
     contentDir: content/en
     weight: 1
-  zh-hant:
+  zh-Hant:
     languageName: 繁體中文
     contentDir: content/zh-hant
     weight: 2
