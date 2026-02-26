@@ -1,2 +1,12 @@
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 1
+  zh-hant:
+    languageName: 繁體中文
+    contentDir: content/zh-hant
+    weight: 2
