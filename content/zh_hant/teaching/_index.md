@@ -3,10 +3,10 @@ title: 教學資源
 summary: 我會在此頁整理及分享有關語文教學的資源，內容將持續更新。
 date: 2024-05-20
 
-# 這裡是 Header 部分的設定
-header:
-  caption: ""
-  image: ""
+# # 這裡是 Header 部分的設定
+# header:
+#   caption: ""
+#   image: ""
 
 # 如果你想讓這個頁面看起來像一個入口，可以使用以下 Markdown 內容
 ---
