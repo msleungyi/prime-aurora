@@ -75,8 +75,8 @@ sections:
       offset: 0
       sort_by: "Date"
       sort_ascending: false
-      title: "Blog"
-      text: "Read my most recent blog posts here:"
+      title: "Recent Blog Posts"
+      text: '[View all posts →](/blog/)'
       page_type: "blog"
       order: "desc"
     ue: "section-6-collection"

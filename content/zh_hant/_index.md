@@ -39,19 +39,19 @@ sections:
       username: "me.zh-hant"
     ue: "section-6-resume-languages"
     Bi: "section-ff9b2885"
-  # - block: "portfolio"
-  #   content:
-  #     count: 2
-  #     sort_by: "Date"
-  #     sort_ascending: false
-  #     buttons:
-  #       - name: "All"
-  #         tag: "*"
-  #     default_button_index: 0
-  #     title: "研究與項目"
-  #   ue: "section-5-portfolio"
-  #   design: {}
-  #   Bi: "section-4ae8e5b6"
+  - block: "portfolio"
+    content:
+      count: 2
+      sort_by: "Date"
+      sort_ascending: false
+      buttons:
+        - name: "All"
+          tag: "*"
+      default_button_index: 0
+      title: "研究項目"
+    ue: "section-5-portfolio"
+    design: {}
+    Bi: "section-4ae8e5b6"
   # - block: "collection"
   #   content:
   #     title: "教學資源"

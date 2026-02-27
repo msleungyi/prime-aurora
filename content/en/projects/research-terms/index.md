@@ -32,13 +32,17 @@ tags:
 
 ## What Is Re-SearchTerms?
 
-Re-SearchTerms is an interactive Shiny app designed to help researchers explore how scientific terms are defined across different disciplines, sources, and contexts.
+Have you ever noticed that even when we talk about the same word or the same concept, what each person has in mind might not be exactly the same?
 
-In science, we often assume we agree on what terms mean — words like *replication*, *open science*, *equality*, *transparency*, or *validity*.  
+In scientific research, there are terms we frequently use - for example, "replication", "open science", or "transparency". It might be the case that we assume that many of us share the same understanding. In reality, scientists from different fields, and even those within the same field, do not always define these terms in the same way. Sometimes these differences are merely a matter of word choices, but other times they reflect fundamental variations in how different scholars understand a concept. For readers of academic articles, this can inevitably lead to confusion.
 
-But when you look closely, these terms are often defined in many different ways.
+I remember when I first started my undergraduate studies in Chinese Language Education and was introduced to the concept of "developmental dyslexia". When writing a thesis, defining the core concepts of the topic is a crucial step. Back then, as an undergraduate, the common approach was simply to find the most "authoritative" definition, which usually meant directly quoting from an authoritative dictionary or a scholarly journal from a prestigious university.
 
-Re-SearchTerms makes this invisible variability visible.
+However, as I continued my studies, I realised how difficult it is to determine what truly counts as an "authoritative" definition. Definitions of a term often shift across different scholarly domains or evolve over time. This is a natural part of academic growth. When I delved deeper into the definition of "dyslexia", I discovered that scholars from different regions and eras held varying perspectives.
+
+Having these differences isn't necessarily a bad thing; after all, the essence of scientific research is to encourage a diversity of ideas. It is because we see these inconsistencies in the literature that we are prompted to pause and deeply reflect on what a concept truly means.
+
+Therefore, as part of my doctoral research, I designed and developed this Shiny app, **Re-SearchTerms**. This Shiny App was created to help everyone pause and examine the definitions of academic terms to see how their language and usage vary across the board.
 
 ---
 
@@ -183,6 +187,8 @@ This short video tutorial walks you through the key features of Re-SearchTerms:
 
 ## In a Nutshell
 
-Re-SearchTerms helps researchers slow down, look carefully at the words they use, and build clearer, more transparent research together. 
+Re-SearchTerms helps us slow down, look carefully at the words we use, and build clearer, more transparent research together.
+
+The paper relevant to this research is now accepted at *Meta-Psychology*. If you are interested, you may read the preprint version of the paper [here](https://doi.org/10.31219/osf.io/qsp7x_v2).
 
 If you are interested in adapting Re-SearchTerms to your own field, dataset, or educational context, I would be delighted to explore potential collaborations. Please feel free to get in touch to discuss how the app could be tailored to your specific needs.

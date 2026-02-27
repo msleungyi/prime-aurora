@@ -32,7 +32,7 @@ zh-hant:
       - name: 首頁
         url: /
         weight: 10
-      - name: 研究與項目
+      - name: 研究項目
         url: /projects/
         weight: 20
       - name: 教學資源

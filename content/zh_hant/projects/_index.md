@@ -1,5 +1,6 @@
 ---
 title: 'Projects'
+translationKey: "projects"
 date: 2024-05-19
 type: landing
 
@@ -11,8 +12,8 @@ design:
 sections:
   - block: collection
     content:
-      title: 研究與項目
-      text: 此頁將於未來更新，敬請留意。
+      title: 研究項目
+      text: 本頁介紹我在心理語言學範疇的研究項目和成果。
       filters:
         folders:
           - projects
