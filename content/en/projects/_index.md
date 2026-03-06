@@ -13,7 +13,7 @@ sections:
   - block: collection
     content:
       title: Research Projects
-      # text: Here is the list of research projects that I have worked on over the years.
+      text: This page introduces my previous and ongoing research projects.
       filters:
         folders:
           - projects
