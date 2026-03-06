@@ -2,7 +2,7 @@
 title: "語素意識測驗：題型設計會影響測驗難度嗎？"
 date: 2025-05-27
 draft: false
-summary: 本研究探討不同題型的英文語素意識測驗，如何因為測驗設計的不同而影響難度.
+summary: 本研究探討不同題型的英文語素意識測驗，如何因為測驗設計的不同而影響難度。
 links:
   - type: preprint
     url: http://dx.doi.org/10.31219/osf.io/v9arq_v1
