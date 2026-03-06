@@ -143,4 +143,4 @@ If you would like to explore the full details, including the statistical models 
 [Leung, A. Y., Wu, X., & Schmalz, X. (2025). Measuring Morphological Awareness in English-Speaking Adults: How Task Format, Item Features, and Reading Comprehension Affect Test Item Difficulty.](http://dx.doi.org/10.31219/osf.io/v9arq_v1)
 
 ### Acknowledgement
-This formulation of the research question was developed collaboratively with my supervisee, Ms. Xiaoshu Wu, and part of the work was reported in her master's thesis. We thank Dr. Xenia Schmalz for her support throughout the project, Dr. Danielle Colenbrander for her theoretical and technical feedback, and Ms. Sara Chilson for her assistance with data coding.
+The formulation of the research question was developed collaboratively with my supervisee, Ms. Xiaoshu Wu, and part of the work was reported in her master's thesis. We thank Dr. Xenia Schmalz for her support throughout the project, Dr. Danielle Colenbrander for her theoretical and technical feedback, and Ms. Sara Chilson for her assistance with data coding.
