@@ -45,7 +45,7 @@ sections:
     Bi: "section-ff9b2885"
   - block: "portfolio"
     content:
-      count: 2
+      count: 3
       sort_by: "Date"
       sort_ascending: false
       buttons:
