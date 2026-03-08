@@ -50,4 +50,4 @@ How scientific, exactly, were these scientific methods? ......
 
 
 **Check out the full text on my Substack:**
-**[Pacing Between Classroom and Lab](https://annayileung.substack.com/p/replicability-crisis)**
+**[Pacing Between Classroom and Lab](https://annayileung.substack.com/p/science-is-not-a-golden-rule-a-teachers)**
