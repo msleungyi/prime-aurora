@@ -10,9 +10,9 @@ sections:
     content:
       username: "me.zh-hant"
       text: ""
-      # button:
-      #   text: "下載履歷"
-      #   url: "uploads/AYLeung_Academic CV_25-2-2026.pdf"
+      button:
+        text: "下載英文履歷"
+        url: "uploads/AYLeung_Academic CV_25-2-2026.pdf"
       headings:
         about: "個人簡介"
         education: "學歷"
@@ -41,7 +41,7 @@ sections:
     Bi: "section-ff9b2885"
   - block: "portfolio"
     content:
-      count: 2
+      count: 3
       sort_by: "Date"
       sort_ascending: false
       buttons:
