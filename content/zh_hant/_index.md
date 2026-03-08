@@ -72,7 +72,7 @@ sections:
       sort_by: "Date"
       sort_ascending: false
       title: "網誌"
-      text:
+      text: '[瀏覽所有文章 →](/zh-hant/blog/)'
       page_type: "blog"
       order: "desc"
     ue: "section-6-collection"
