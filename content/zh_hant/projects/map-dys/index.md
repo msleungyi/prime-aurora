@@ -91,13 +91,11 @@ MAP-DyS 應用程式可以讓使用者：
 
 ## 了解更多
 
+本計劃由我與 Dr. Daniel Kristanto 共同主導，並獲得 META-REP Priority Programme（Phase 1）「Treasure Box for Early-Career Researchers (ECR)」的資助。我們亦感謝以下合作研究者在理論與方法上的建議與支持： Prof. John Ioannidis、Prof. Andrea Hildebrandt、Dr. Xenia Schmalz、Dr. Carsten Gießing，同時感謝研究助理 Mr. Peter Roßmeier 協助資料整理與整合。
+
 若欲了解完整的研究方法與結果，歡迎閱讀我們的Preprint：
 
 [**Leung, A. Y., Kristanto, D., Gießing, C., Ioannidis, J. P. A., Hildebrandt, A., & Schmalz, X. (2025).**  
 *The multiverse of developmental dyslexia subtyping: The “Mapping Dyslexia Subtypes” (MAP-DyS) app for analytical decision-making.*](https://www.medrxiv.org/content/10.1101/2025.07.23.25332032v1)
 
----
 
-### 鳴謝
-
-本計劃由我與 Dr. Daniel Kristanto 共同主導，並獲得 META-REP Priority Programme（Phase 1）「Treasure Box for Early-Career Researchers (ECR)」的資助。我們亦感謝以下合作研究者在理論與方法上的建議與支持： Prof. John Ioannidis、Prof. Andrea Hildebrandt、Dr. Xenia Schmalz、Dr. Carsten Gießing，同時感謝研究助理 Mr. Peter Roßmeier 協助資料整理與整合。

@@ -92,13 +92,9 @@ Although this use case study focuses on developmental dyslexia, the framework ca
 
 ## Learn More
 
+This project was co-led by myself and Dr. Daniel Kristanto, funded by the META-REP Priority Programme (Phase 1), "Treasure Box for Early-Career Researchers (ECR)". We thank the theoretical and methodological input of our collaborators, Prof. John Ioannidis, Prof. Andrea Hildebrandt, Dr. Xenia Schmalz, Dr. Carsten Gießing. We also thank our research assistant, Mr. Peter Roßmeier, for assisting in data curation and aggregation.
+
 For the full methodological details and results, feel free to check out our preprint:
 
 [**Leung, A. Y., Kristanto, D., Gießing, C., Ioannidis, J. P. A., Hildebrandt, A., & Schmalz, X. (2025).**  
 *The multiverse of developmental dyslexia subtyping: The “Mapping Dyslexia Subtypes” (MAP-DyS) app for analytical decision-making.*](https://www.medrxiv.org/content/10.1101/2025.07.23.25332032v1)
-
----
-
-### Acknowledgement
-
-This project was co-led by myself and Dr. Daniel Kristanto, funded by the META-REP Priority Programme (Phase 1), "Treasure Box for Early-Career Researchers (ECR)". We thank the theoretical and methodological input of our collaborators, Prof. John Ioannidis, Prof. Andrea Hildebrandt, Dr. Xenia Schmalz, Dr. Carsten Gießing. We also thank our research assistant, Mr. Peter Roßmeier, for assisting in data curation and aggregation.
