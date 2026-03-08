@@ -52,19 +52,19 @@ sections:
     ue: "section-5-portfolio"
     design: {}
     Bi: "section-4ae8e5b6"
-  # - block: "collection"
-  #   content:
-  #     title: "教學資源"
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - "teaching"
-  #       exclude_featured: false
-  #     count: 3
-  #   design:
-  #     view: "citation"
-  #   ue: "section-26d9236d"
-  #   Bi: "section-3ff359fa"
+  - block: "collection"
+    content:
+      title: "最新學術著作"
+      text: ""
+      filters:
+        folders:
+          - "publications"
+        exclude_featured: false
+      count: 3
+    design:
+      view: "citation"
+    ue: "section-26d9236d"
+    Bi: "section-3ff359fa"
   - block: "collection"
     content:
       count: 3

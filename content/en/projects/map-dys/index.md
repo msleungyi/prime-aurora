@@ -18,9 +18,9 @@ links:
 tags:
   - Developmental Dyslexia
   - Reading Research
-  - Research Methods
+  - Subtypes
   - Open Science
-  - Reproducibility
+  - Research Synthesis Methods
 # image:
 #   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 

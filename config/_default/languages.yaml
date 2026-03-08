@@ -35,8 +35,8 @@ zh-hant:
       - name: 研究項目
         url: /projects/
         weight: 20
-      - name: 教學資源
-        url: /teaching/
+      - name: 學術著作
+        url: /publications/
         weight: 30
       - name: 網誌
         url: /blog/
