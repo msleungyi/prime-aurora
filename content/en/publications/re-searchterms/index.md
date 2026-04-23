@@ -11,7 +11,7 @@ hugoblox:
     doi: 10.31219/osf.io/qsp7x_v2
 publication_types:
   - article-journal
-publication: Meta-Psychology (accepted)
+publication: Meta-Psychology (in press)
 publication_short: ""
 abstract: <p>The wording of definitions for terms in open scholarship and
   research practices may be inconsistent, making it difficult for researchers to
@@ -39,8 +39,8 @@ abstract: <p>The wording of definitions for terms in open scholarship and
   datasets of research concepts, enabling researchers to examine and select
   terminology, especially in interdisciplinary fields.</p>
 links:
-  - type: preprint
-    url: https://10.31219/osf.io/qsp7x_v2
+  - type: pdf
+    url: https://osf.io/preprints/osf/qsp7x_v3
   - type: app
     url: https://msleungyi.shinyapps.io/Re-SearchTerms_v2/
   - type: dataset

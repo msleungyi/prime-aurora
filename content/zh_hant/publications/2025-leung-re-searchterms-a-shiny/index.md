@@ -40,7 +40,7 @@ abstract: <p>The wording of definitions for terms in open scholarship and
   terminology, especially in interdisciplinary fields.</p>
 links:
   - type: preprint
-    url: https://10.31219/osf.io/qsp7x_v2
+    url: https://osf.io/preprints/osf/qsp7x_v2
   - type: app
     url: https://msleungyi.shinyapps.io/Re-SearchTerms_v2/
   - type: dataset
